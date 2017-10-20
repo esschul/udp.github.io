@@ -108,7 +108,7 @@ aside {
 
 
 @media (max-width: 768px) {
-	header .header-content { padding-bottom:380px !important; } 
+	header .header-content { padding-bottom:380px !important; }
 }
 
 @media (min-width: 1500px) {
@@ -436,7 +436,7 @@ fieldset[disabled] .btn-primary.active {
 .btn {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   border: none;
-  border-radius: 300px;
+  border-radius: 20px;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -494,4 +494,3 @@ body {
 .u.r270 {
 	transform: rotate(270deg);
 }
-
